@@ -1,0 +1,159 @@
+1589044955946	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--no-sandbox" "--disable-javascript" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHAHRUKH\\AppData\\Local\\Temp\\rust_mozprofileunuAcM"
+JavaScript error: 341773062.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/nsAsyncShutdown.jsm, line 135: SyntaxError: 0x90 byte doesn't begin a valid UTF-8 code point
+JavaScript note: resource://gre/modules/nsAsyncShutdown.jsm, line 135: the code units comprising this invalid code point were: 0x90
+1589044956839	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589044956875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589044956875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589044956875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589044956875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/nsAsyncShutdown.jsm, line 135: SyntaxError: 0x90 byte doesn't begin a valid UTF-8 code point
+JavaScript note: resource://gre/modules/nsAsyncShutdown.jsm, line 135: the code units comprising this invalid code point were: 0x90
+1589045554418	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--no-sandbox" "--disable-javascript" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHAHRUKH\\AppData\\Local\\Temp\\rust_mozprofilex3Fy23"
+*** You are running in headless mode.
+JavaScript error: 341773062.cfg, line 3: ReferenceError: Components is not defined
+1589045567885	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589045568229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589045568229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589045568230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589045568230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1589045590460	Marionette	INFO	Listening on port 50133
+1589045594725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: uncaught exception: Object
+:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--no-sandbox" "--disable-javascript" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHAHRUKH\\AppData\\Local\\Temp\\rust_mozprofileiPK3Hc"
+*** You are running in headless mode.
+JavaScript error: 341773062.cfg, line 3: ReferenceError: Components is not defined
+1589045646175	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589045646211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589045646211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589045646211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589045646211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1589045651959	Marionette	INFO	Listening on port 50263
+1589045652258	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=Ij3Wp8lg5Kz, line 7: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=Ij3Wp8lg5Kz, line 7: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=Ij3Wp8lg5Kz, line 7: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=Ij3Wp8lg5Kz, line 7: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1589045759865	Marionette	INFO	Stopped listening on port 50263
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+1589045966101	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--no-sandbox" "--disable-javascript" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHAHRUKH\\AppData\\Local\\Temp\\rust_mozprofileBLH3O4"
+*** You are running in headless mode.
+1589046126535	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--no-sandbox" "--disable-javascript" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHAHRUKH\\AppData\\Local\\Temp\\rust_mozprofilelyx5ft"
+*** You are running in headless mode.
+JavaScript error: 341773062.cfg, line 3: ReferenceError: Components is not defined
+1589046128272	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589046128332	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589046128333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589046128333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589046128333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1589046133712	Marionette	INFO	Listening on port 50776
+1589046134563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=Ij3Wp8lg5Kz, line 7: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=Ij3Wp8lg5Kz, line 7: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=Ij3Wp8lg5Kz, line 7: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=Ij3Wp8lg5Kz, line 7: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/M72Tx0nMa-v.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeHLuWRg8jKC-zd4havH4fKGBXVzIaiwO8wFdXMhqLA7zMbVIV6-vSZuFnjCPMLm-cEk1cwC0iDqcwMoWYi0012G, line 76: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/M72Tx0nMa-v.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeHLuWRg8jKC-zd4havH4fKGBXVzIaiwO8wFdXMhqLA7zMbVIV6-vSZuFnjCPMLm-cEk1cwC0iDqcwMoWYi0012G, line 76: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/M72Tx0nMa-v.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeHLuWRg8jKC-zd4havH4fKGBXVzIaiwO8wFdXMhqLA7zMbVIV6-vSZuFnjCPMLm-cEk1cwC0iDqcwMoWYi0012G, line 76: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/EoigeNnpYSt.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeEE3qkffbGPDCT3Za_fqOiU-0GbGUp0hIL7QZsZSnSEgkYIEhUc1UMb_EPvcuCXO4Ke5-bIIlaIWOGD2Y_q384r, line 7: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/M72Tx0nMa-v.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeHLuWRg8jKC-zd4havH4fKGBXVzIaiwO8wFdXMhqLA7zMbVIV6-vSZuFnjCPMLm-cEk1cwC0iDqcwMoWYi0012G, line 76: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/M72Tx0nMa-v.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeHLuWRg8jKC-zd4havH4fKGBXVzIaiwO8wFdXMhqLA7zMbVIV6-vSZuFnjCPMLm-cEk1cwC0iDqcwMoWYi0012G, line 76: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yr/r/M72Tx0nMa-v.js?_nc_x=zPwEXaolIJA&_nc_eui2=AeHLuWRg8jKC-zd4havH4fKGBXVzIaiwO8wFdXMhqLA7zMbVIV6-vSZuFnjCPMLm-cEk1cwC0iDqcwMoWYi0012G, line 76: unreachable code after return statement
+1589046220965	Marionette	INFO	Stopped listening on port 50776
